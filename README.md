@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afeera Fatima</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afferafatima" alt="afferafatima" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
 
 <p align="left"> <a href="https://twitter.com/affera_" target="blank"><img src="https://img.shields.io/twitter/follow/affera_?logo=twitter&style=for-the-badge" alt="affera_" /></a> </p>
 
